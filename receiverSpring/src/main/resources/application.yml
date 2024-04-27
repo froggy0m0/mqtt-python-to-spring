@@ -1,0 +1,7 @@
+spring:
+  mqtt:
+    url: tcp://localhost:1883
+    topic: hello/mqtt
+    username: yourUsername
+    password: yourPassword
+    client-id: springClient
